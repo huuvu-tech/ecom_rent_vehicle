@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://huuvu-tech.github.io/ecom_rent_vehicle",
+
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

@@ -21,7 +21,7 @@ function App() {
       <HelmetProvider>
         <ThemeProvider>
           <CssBaseline />
-          <BrowserRouter>
+          <BrowserRouter basename="/ecom_rent_vehicle">
             <AuthProvider>
               <CartProvider>
                 <Header />
